@@ -28,6 +28,8 @@ This project implements a binary coded genetic algorithm in Python.
 
 To use this project, you need to have Python installed on your machine. You can then run the `binaryCodedGeneticALgo.py` script to start the genetic algorithm.
 
+##Result
+![Genetic Algorithm Diagram](./RGA_10000_iterations.png)
 ## Contribution
 
 Contributions are welcome! Please feel free to submit a Pull Request.
